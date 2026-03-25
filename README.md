@@ -1,2 +1,2 @@
-# expenses-app
-the first test repo
+My first project
+This app will track expenses
